@@ -1,0 +1,40 @@
+Sprint Membership
+	List accomodation availibility
+	Reservation process
+	User profile
+	User mobile number
+	User gender 
+	User address
+	User details
+
+Sprint Filter
+	catlog Filter for PG
+	Filter by rent
+	FIlter by Location
+	Filter by Gender
+	Filter by property type
+	Filter by Furnished state
+	Filter by AC/Non-Ac
+	Filter by parking
+
+Sprint PG Details
+	Owner and PG details
+	PG registration
+	PG Validation
+	PG facilities
+	PG address and near places
+	PG Reviews , Rating and comments
+	PG Total rents and Advance amount
+	PG images
+
+Sprint Owner Details
+	Owner Registration 
+	Forgot password and change profile info
+	Address and mobile number
+	PG owner certificate and ID proof
+
+Sprint PG Confirmation
+	Varification
+	Payment method anby net bankig
+	Send details via SWEM email (automated)
+	Joing dae and end of agreement

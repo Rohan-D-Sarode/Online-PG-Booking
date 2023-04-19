@@ -1,0 +1,181 @@
+
+Title: 
+
+Online PG Booking System
+
+Objective (Purpose):
+
+The goal of this project is to provide an online booking system which will make it simple for users to find, reserve, and pay for PG facilities. The system should provide tenants with a reliable and user-friendly, effective, and secure booking experience.
+
+Scope: 
+
+This system allows tenants to view and book an appointment of properties which are in the catalogue.
+
+ This system also allows owner of property to remove and request to add their properties which will be promoted on the system.
+
+Tenants will be able to review their favourite properties in the favorite list, tanants will be also able to review their appointment The System will be able to show live Business Operation statistics trends through Customized dashboard
+for stakeholders.
+
+	
+Functional Requirements:
+
+Users can create accounts either as tenants or owners and securely access personalised contents and features on the application by registering and logging in.
+A filter function will be used which will filter rent, location, gender, BHK type, furnished status, AC/non-AC, and parking; making it simpler for tenants to identify home that suit their needs and preferences. After that PG list will be shown to the user according to the filters.
+
+System will show real time availability of the property based on filters and preferences. 
+
+Users may quickly explore and compare PG lodgings based on their unique preferences and accordance which include PG name, owner data, images, location, rent, agreement, surrounding places, and review ratings and comments.
+
+The registered users will have their individual profiles, which will consist user details, booking details, appointment details, refund and cancellation detail, give users a thorough overview of their account activity and history.
+
+The registered users who are looking to book an appointment for a property can do so easily and quickly by using the appointment booking option on a booking web application.
+
+The system will ask to fill joining date, time duration, advance amount, and upload identity proof for providing confirmation.
+
+Owner login registration allows property owners to set up accounts and control property contents which include rent amount, ID-proof, PG required documents, available rooms which are furnished or non-furnished, ac or non-ac, location and address.
+
+The tenants can see if the properties details and photos provided by the owner is verified or not. 
+
+The system will send an automated notification to the managers when registered tenant books an appointment, the manager should also be provided with the tenant’s detail. 
+
+The following features will be available through the online PG booking system:
+
+1.User registration and logging in
+2.Options for searching and filtering the available PG facilities
+3.A thorough database of PG facilities with information on environment, location, cost and so on
+4.Several payment gateways for booking and payments
+5.Availability of PG facilities in real time
+6.Automated email and SMS confirmation of reservations to manager
+7.Refund and cancellation policies
+8.ratings and reviews from customers for PG facilities
+9.A dashboard allowing managers to manage listings, payments, and user data.
+
+Non-functional Requirements:
+
+Security:
+
+	Only registered users can see the details of the property provided by owner through client.
+
+Only Registered users can book an appointment through client to see the property.
+
+Property owners can request to update, add and remove the property details and images. Request will be approved by client after checking the parameters.  
+
+The images uploaded will have watermarks and unique numbers on them so images won't be stolen and used somewhere else.
+
+The system should be Robust.
+	
+Stakeholders will be given access to the system through the authentication process.
+
+The system will provide access to the content and perform activities using SSL and role-based security (authorization) and (permissions based on role) for all transactions performed by stakeholders.
+
+Sensitive data will always be transmitted through encrypted channels.
+
+System will have a proper firewall protection to protect the server from outside fishing and vulnerable attacks.
+
+System will protect confidential information shared by the system and stakeholders and the information stored by stakeholders in the system.
+
+System will automatically log off and block the operations of all stakeholders which are inactive for a certain period and redirect them to authentication.
+
+System will internally maintain a secure communication channel between servers. I.e Web servers, App Servers, Database Server.
+
+System will provide a secure gateway for the transactions.
+
+Reliability:
+
+The system should not have any bugs and errors
+
+The system will backup data on a regular basis and should be able to recover in a short period of time to keep the system operational If Something goes wrong. This will also help if updates are to be maintained. 
+
+Continuous administration is to be done to keep the system operational.
+
+The system will be able to maintain the same user experience without slowing down by load balancing in the peak hours.
+
+Availability:
+	
+The system will be available 24 * 7 with 99.999% assurance even with high user load.
+
+Maintainability: 
+	
+The system should have an architecture which will allow for easy to maintain, easy to update.
+
+The system should be easy to test and easy to debug.
+
+A commercial and reliable software should be used to maintain system’s database and its persistence.
+
+To handle server capabilities, a ready-made web server will be installed to host an online PG booking site (Web Site).
+
+Utilising the administrative capabilities given by servers, the IT operations team may quickly configure and monitor the system.
+	
+System isolation in production, testing, and development will be maintained in different environments.
+
+Portability:
+
+System should be a PDA (Portable Device Application).
+	
+System should provide a portable user interface by using HTML, CSS, JS, through which users will be able to access online PG booking portal.
+	
+System deployment options should include single server, multiple servers, any OS, and cloud (Azure, AWS, or GCP).
+
+Accessibility:
+
+Only Registered users can book an appointment through client and visit the property after paying appointment charges.
+
+Review/Verification teams will reject or approve posts, owner requests based on the role provided.
+
+Owners will be able to see their property view count
+
+The system should support multiple languages.
+
+The system will show similar properties with the properties the user is viewing.
+
+Durability:
+
+System will maintain users’ favourite properties.
+
+System will be able to add properties in the favourite list and look for its details whenever needed.
+	
+System will implement backup and recovery for retaining stakeholder’s data, business operation data and business data over time.
+
+Efficiency:
+	
+On peak season (new admission batches), maximum number of users will be viewing properties and placing appointments with the same response time.
+
+All transactions will be managed by the system in isolation.
+
+Modularity:
+
+A reusable, independent, or dependent set of business scenarios will be used to design and develop the system.
+	
+These modules will be extremely coherent and loosely connected.
+
+
+Scalability:
+	
+Regardless of load, the system will be able to offer stakeholders and visitors a consistent user experience.
+
+Safety:
+
+System will be secure from all fishing and all malicious attacks.
+
+System functionalities will be protected from outside with proper firewall configuration.
+
+System will be kept up to date with the latest antivirus software.
+
+To ensure data security, business data will be frequently backed up using an incremental backup technique.
+
+Accessibility to application data and operations will use role-based security.
+	
+
+	
+
+ 
+
+
+	
+
+
+
+
+ 
+	
+
